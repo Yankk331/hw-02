@@ -19,8 +19,6 @@ a {
 }
 
 header {
-  height: 80px;
-
   background: var(--header-color);
 }
 
@@ -164,7 +162,6 @@ footer .mail-footer {
 }
 
 footer {
-  height: 252px;
   background: var(--solutionsbg-color);
 }
 
@@ -214,12 +211,10 @@ header .menu-atribute:focus {
 }
 
 .business-solutions {
-  height: 600px;
   background: var(--solutionsbg-color);
 }
 
 .our-team {
-  height: 648px;
   background: var(--portfolio-background);
 }
 
@@ -234,7 +229,6 @@ header .menu-atribute:focus {
 .our-team .team-name {
   font-size: 16px;
   line-height: 1.18;
-  text-align: center;
   letter-spacing: 0.03em;
   color: var(--body-color);
 }
@@ -242,7 +236,6 @@ header .menu-atribute:focus {
 .our-team .team-descr {
   font-size: 16px;
   line-height: 1.18;
-  text-align: center;
   letter-spacing: 0.03em;
   color: var(--mail_phone-color);
 }
